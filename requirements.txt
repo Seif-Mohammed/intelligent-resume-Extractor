@@ -1,0 +1,29 @@
+# Core GUI Framework
+PyQt6>=6.4.0
+
+# PDF Processing
+pdfplumber>=0.7.6
+
+# Word Document Processing
+python-docx>=0.8.11
+
+# Natural Language Processing
+spacy>=3.5.0
+
+# PDF to Word Conversion (optional, for PDF export functionality)
+docx2pdf>=0.11.0
+
+# Date and Time Utilities (built-in, but listed for clarity)
+# datetime - built-in module
+
+# Regular Expressions (built-in)
+# re - built-in module
+
+# Path Utilities (built-in)
+# pathlib - built-in module
+
+# Type Hints (built-in in Python 3.5+)
+# typing - built-in module
+
+# Download spaCy English model (run after installation)
+# python -m spacy download en_core_web_sm
